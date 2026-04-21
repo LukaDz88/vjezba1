@@ -2,4 +2,8 @@
 promjena na main
 =======
 linija 1
+<<<<<<< HEAD
 >>>>>>> fd3bce1 (dodana linija 1)
+=======
+linija 2
+>>>>>>> 0729e40 (dodana linija 2)
